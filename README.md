@@ -16,7 +16,7 @@ after signing up with the delightfully named [Infinite Energy](http://www.infini
 
 the tableau workbook [`eia_retail_electricity_table6.twbx`](https://github.com/micahstubbs/my-electricity/blob/master/eia_retail_electricity_table6.twbx?raw=true) [tableau public](https://public.tableausoftware.com/profile/micah.stubbs#!/vizhome/eia_retail_electricity_table6/Dashboard) seeks to answer those questions by visualizing market share for all retail electricity providers by state by a few metrics.  This 2012 dataset is from [the US Energy Information Administration](http://www.eia.gov/electricity/data.cfm#sales)
 
-[![](https://public.tableausoftware.com/profile/micah.stubbs#!/vizhome/eia_retail_electricity_table6/Dashboard)](https://public.tableausoftware.com/profile/micah.stubbs#!/vizhome/eia_retail_electricity_table6/Dashboard)
+[![](https://raw.githubusercontent.com/micahstubbs/my-electricity/master/treemaps.png)](https://public.tableausoftware.com/profile/micah.stubbs#!/vizhome/eia_retail_electricity_table6/Dashboard)
 
 Thanks to Javier, Peter, and Chris for prompting me to share this properly.
 
