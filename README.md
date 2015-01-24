@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/micahstubbs/my-electricity/master/chart.png)](https://public.tableausoftware.com/profile/micah.stubbs#!/vizhome/my_electricity/Story)
+
 #my-electricity
 
 an exploration of 13 months of retail electricity usage data for my apartment.  I was paying above market electricity prices **17.2 cents per kilowatt hour** with [Reliant Energy](https://www.reliant.com/en/residential/join-now/new.jsp).  Reliant offers access to ["Green Button"](http://www.greenbuttondata.org/) hourly electricity usage data in this [arcane xml-spreadsheet](https://github.com/micahstubbs/my-electricity/tree/master/ReliantGreenButtonData).
